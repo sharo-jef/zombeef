@@ -1,0 +1,7 @@
+{
+    "type": "smoking",
+    "ingredient": {
+        "item": "minecraft:rotten_flesh"
+    },
+    "result": "minecraft:cooked_beef"
+}
