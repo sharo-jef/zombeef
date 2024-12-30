@@ -1,7 +1,8 @@
 {
-    "type": "smoking",
-    "ingredient": {
-        "item": "minecraft:rotten_flesh"
+    "type": "minecraft:smoking",
+    "ingredient": "minecraft:rotten_flesh",
+    "result": {
+      "id": "minecraft:cooked_beef"
     },
-    "result": "minecraft:cooked_beef"
-}
+    "experience": 2
+  }
